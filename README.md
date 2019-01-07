@@ -1,6 +1,8 @@
 # awesome-oxidization
 
-components being replaced with rust versions
+Components being replaced with rust versions.
+
+You can edit this page to make it better!
 
 ## Software
 
