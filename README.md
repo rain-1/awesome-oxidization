@@ -14,12 +14,13 @@ Software that's already been, or in the progress of oxidation.
 * A python standard library function - https://tech.blue-yonder.com/oxidizing-python-speeding-up-urlquoting-by-using-rust/
 * A linux kernel module - (https://github.com/tsgates/rust.ko)
 * A FreeBSD kernel module - https://github.com/johalun/echo
+* [fastmod](https://github.com/facebookincubator/fastmod), a rust reimplementation of codemod refactoring tool
 
 ## Plans
 
 Software where there are plans to do it, but it hasn't been done yet.
 
-* mercurial - [OxidationPlan](https://www.mercurial-scm.org/wiki/OxidationPlan)
+* mercurial - [OxidationPlan](https://www.mercurial-scm.org/wiki/OxidationPlan) + [mononoke](https://github.com/facebookexperimental/mononoke) a implementation of mercurial server in rust.
 * gstreamer plugins - [writing gstreamer plugins in rust](https://coaxion.net/blog/2016/05/writing-gstreamer-plugins-and-elements-in-rust/)
 * network device drivers - [Writing Network Drivers in Rust](https://www.net.in.tum.de/fileadmin/bibtex/publications/theses/2018-ixy-rust.pdf), [How to write PCIe drivers in Rust, go, C#, Swift, Haskell, and OCaml @ CCC](https://www.youtube.com/watch?v=aSuRyLBrXgI)
 
