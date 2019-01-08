@@ -15,6 +15,7 @@ Software that's already been, or in the progress of oxidation.
 * A linux kernel module - (https://github.com/tsgates/rust.ko)
 * A FreeBSD kernel module - https://github.com/johalun/echo
 * [fastmod](https://github.com/facebookincubator/fastmod), a rust reimplementation of codemod refactoring tool
+* [deno](https://github.com/denoland/deno) a typescript implementation for running typescript outside the browser.
 
 ## Plans
 
