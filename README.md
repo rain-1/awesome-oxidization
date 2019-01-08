@@ -17,6 +17,17 @@ Software that's already been, or in the progress of oxidation.
 * [fastmod](https://github.com/facebookincubator/fastmod), a rust reimplementation of codemod refactoring tool
 * [deno](https://github.com/denoland/deno) a typescript implementation for running typescript outside the browser.
 
+### Cryptography Software
+
+The following conglomerate are components working together to replace openssl with rust implementations. Ring contains a little unsafe but the rest is pure rust with no unsafe blocks.
+
+* https://github.com/briansmith/ring
+* https://github.com/briansmith/webpki
+* https://github.com/ctz/webpki-roots
+* https://github.com/ctz/sct.rs
+* https://github.com/ctz/rustls/
+* [mesalink.io](https://mesalink.io/): https://github.com/mesalock-linux/mesalink
+
 ## Plans
 
 Software where there are plans to do it, but it hasn't been done yet.
