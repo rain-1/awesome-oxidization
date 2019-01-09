@@ -18,6 +18,7 @@ Software that's already been, or in the progress of oxidation.
 * [fastmod](https://github.com/facebookincubator/fastmod), a rust reimplementation of codemod refactoring tool
 * [deno](https://github.com/denoland/deno) a typescript implementation for running typescript outside the browser.
 * [coreutils](https://github.com/uutils/coreutils), cross-platform Rust rewrite of the GNU coreutils
+* [swc](https://github.com/swc-project/swc), a babel (something to do with javascript?) replacement.
 
 ### Cryptography Software
 
