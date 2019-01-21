@@ -32,6 +32,11 @@ The following conglomerate are components working together to replace openssl wi
 * https://github.com/ctz/rustls/
 * [mesalink.io](https://mesalink.io/): https://github.com/mesalock-linux/mesalink
 
+
+GPG reimplementation:
+
+* https://sequoia-pgp.org/
+
 ## Plans
 
 Software where there are plans to do it, but it hasn't been done yet.
